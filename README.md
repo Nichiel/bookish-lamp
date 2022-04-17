@@ -4,6 +4,8 @@ In Poland, both types of rubbish go to the same bins and cannot be sorted mechan
 The model was created using the transfer learning method on the basis of ResNet101V2 from the TensorFlow 2.1 library. The model is supported by the Rasberry Pi 3.
 
 Link to the model: https://drive.google.com/file/d/1-5LPEd8qPBKZ_803yp_uE3Y3DgL69b49/view?usp=sharing
-
+Below are the test results:
+ - Incorrectly classified test samples (2.5%)
 ![image](https://user-images.githubusercontent.com/82218783/163716641-ba1e5082-55bb-4fb1-af46-85d65c1c250e.png)
-
+ - Examples of correctly classified test samples (97.5%)
+![image](https://user-images.githubusercontent.com/82218783/163717906-305faaec-746d-412d-bfe0-d176aba41365.png)
